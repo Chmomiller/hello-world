@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-My first respository
+My first respository, how exciting!
